@@ -26,5 +26,7 @@ CircuitBoardInspection Version 1.0@20210520
 
 9、调试支持单线程方便看Cmd信息，实际运行支持4线程，初测提高约50%
 
+10、解决方案中包含Setup安装包，更新时需要更新安装包Version
+
 # MoreOver
 Not Allowed to be Applied!
