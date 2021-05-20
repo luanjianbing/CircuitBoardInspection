@@ -1,0 +1,38 @@
+﻿生成启动时间为 2021/5/19 15:25:38。
+     1>项目“C:\Users\lx\Desktop\线路板检测\软件\CircuitBoardInspection\CircuitBoardInspection\CircuitBoardInspection.vcxproj”在节点 2 上(Build 个目标)。
+     1>QtVars:
+         WHERE /Q cl.exe
+         ("D:/QT/5.12.3/5.12.3/msvc2015_64/bin/qmake" -query) 1> props.txt
+         Reading Qt configuration (D:/QT/5.12.3/5.12.3/msvc2015_64/bin/qmake)
+         ("D:/QT/5.12.3/5.12.3/msvc2015_64/bin/qmake" "CONFIG -= debug release debug_and_release" "CONFIG += release" qtvars.pro) 1> qtvars.log 2>&1
+     1>项目“C:\Users\lx\Desktop\线路板检测\软件\CircuitBoardInspection\CircuitBoardInspection\CircuitBoardInspection.vcxproj”(1)正在节点 2 上生成“C:\Users\lx\Desktop\线路板检测\软件\CircuitBoardInspection\CircuitBoardInspection\CircuitBoardInspection.vcxproj”(1:2) (Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Ix64\Release\uic /Ix64\Release\moc /I"C:\Users\lx\Desktop\?????\??\CircuitBoardInspection\CircuitBoardInspection\x64\Release\qmake\temp" /ID:\QT\5.12.3\5.12.3\msvc2015_64\include /ID:\QT\5.12.3\5.12.3\msvc2015_64\include\QtWidgets /ID:\QT\5.12.3\5.12.3\msvc2015_64\include\QtGui /ID:\QT\5.12.3\5.12.3\msvc2015_64\include\QtANGLE /ID:\QT\5.12.3\5.12.3\msvc2015_64\include\QtCore /IC:\VulkanSDK\1.0.51.0\include /I"D:\QT\5.12.3\5.12.3\msvc2015_64\mkspecs\win32-msvc" /Ix64\Release\moc /Ix64\Release\uic /nologo /W1 /WX- /MP /O2 /D UNICODE /D _UNICODE /D WIN32 /D _ENABLE_EXTENDED_ALIGNED_STORAGE /D WIN64 /D QT_NO_DEBUG /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /D NDEBUG /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt MyCamera.cpp
+         MyCamera.cpp
+       Link:
+         D:\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lx\Desktop\线路板检测\软件\CircuitBoardInspection\x64\Release\CircuitBoardInspection.exe" /NOLOGO /LIBPATH:D:\QT\5.12.3\5.12.3\msvc2015_64\lib /LIBPATH:C:\openssl\lib /LIBPATH:"C:\Utils\my_sql\mysql-5.6.11-winx64\lib" /LIBPATH:C:\Utils\postgresql\pgsql\lib opencv_world348.lib MvCameraControl.lib libmysql.lib Qt5SerialPort.lib ET199_64.lib D:\QT\5.12.3\5.12.3\msvc2015_64\lib\Qt5Widgets.lib D:\QT\5.12.3\5.12.3\msvc2015_64\lib\Qt5Gui.lib D:\QT\5.12.3\5.12.3\msvc2015_64\lib\Qt5Core.lib D:\QT\5.12.3\5.12.3\msvc2015_64\lib\qtmain.lib shell32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\lx\Desktop\线路板检测\软件\CircuitBoardInspection\x64\Release\CircuitBoardInspection.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lx\Desktop\线路板检测\软件\CircuitBoardInspection\x64\Release\CircuitBoardInspection.lib" /MACHINE:X64 x64\Release\CircuitBoardInspection.res
+         x64\Release\ImageProcess.obj
+         x64\Release\MyCamera.obj
+         x64\Release\MysqlSetting.obj
+         x64\Release\ProcessDisplay.obj
+         x64\Release\RS232.obj
+         x64\Release\Statistics.obj
+         x64\Release\ThreadForListenExternalSignal.obj
+         x64\Release\ThreadForRealTimeGrab.obj
+         x64\Release\WindowClass.obj
+         x64\Release\CircuitBoardInspection.obj
+         x64\Release\main.obj
+         x64\Release\qrc_CircuitBoardInspection.obj
+         x64\Release\moc_CircuitBoardInspection.obj
+         x64\Release\moc_ProcessDisplay.obj
+         x64\Release\moc_Statistics.obj
+         x64\Release\moc_ThreadForListenExternalSignal.obj
+         x64\Release\moc_ThreadForRealTimeGrab.obj
+         x64\Release\moc_WindowClass.obj
+         CircuitBoardInspection.vcxproj -> C:\Users\lx\Desktop\线路板检测\软件\CircuitBoardInspection\x64\Release\CircuitBoardInspection.exe
+     1>已完成生成项目“C:\Users\lx\Desktop\线路板检测\软件\CircuitBoardInspection\CircuitBoardInspection\CircuitBoardInspection.vcxproj”(Build 个目标)的操作。
+     1>已完成生成项目“C:\Users\lx\Desktop\线路板检测\软件\CircuitBoardInspection\CircuitBoardInspection\CircuitBoardInspection.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:07.74

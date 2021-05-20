@@ -1,0 +1,16 @@
+﻿生成启动时间为 2021/4/20 13:24:02。
+     1>项目“C:\Users\lx\Desktop\线路板检测\软件\CircuitBoardInspection\CircuitBoardInspection\CircuitBoardInspection.vcxproj”在节点 2 上(Build 个目标)。
+     1>QtVars:
+         WHERE /Q cl.exe
+         ("D:/QT/5.12.3/5.12.3/msvc2015_64/bin/qmake" -query) 1> props.txt
+         Reading Qt configuration (D:/QT/5.12.3/5.12.3/msvc2015_64/bin/qmake)
+         ("D:/QT/5.12.3/5.12.3/msvc2015_64/bin/qmake" "CONFIG -= debug release debug_and_release" "CONFIG += debug" qtvars.pro) 1> qtvars.log 2>&1
+     1>项目“C:\Users\lx\Desktop\线路板检测\软件\CircuitBoardInspection\CircuitBoardInspection\CircuitBoardInspection.vcxproj”(1)正在节点 2 上生成“C:\Users\lx\Desktop\线路板检测\软件\CircuitBoardInspection\CircuitBoardInspection\CircuitBoardInspection.vcxproj”(1:2) (Build 个目标)。
+     1>Link:
+         CircuitBoardInspection.vcxproj -> C:\Users\lx\Desktop\线路板检测\软件\CircuitBoardInspection\x64\Debug\CircuitBoardInspection.exe
+     1>已完成生成项目“C:\Users\lx\Desktop\线路板检测\软件\CircuitBoardInspection\CircuitBoardInspection\CircuitBoardInspection.vcxproj”(Build 个目标)的操作。
+     1>已完成生成项目“C:\Users\lx\Desktop\线路板检测\软件\CircuitBoardInspection\CircuitBoardInspection\CircuitBoardInspection.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.35
